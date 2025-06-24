@@ -1,0 +1,26 @@
+{
+    "title": "Spicy Bites",
+    "imageUrl": "https://example.com/images/spicy-bites-banner.jpg",
+    "foods": [
+        "Butter Chicken",
+        "Paneer Tikka",
+        "Garlic Naan",
+        "Biryani"
+    ],
+    "time": "30-40 min",
+    "pickup": true,
+    "delivery": true,
+    "isOpen": true,
+    "logoUrl": "https://example.com/images/spicy-bites-logo.png",
+    "rating": 4.5,
+    "code": "SPC123",
+    "coords": {
+        "id": "loc001",
+        "lat": 28.6139,
+        "latDelta": 0.01,
+        "long": 77.2090,
+        "longDelta": 0.01,
+        "address": "Connaught Place, New Delhi, India",
+        "title": "Spicy Bites - New Delhi"
+    }
+}
